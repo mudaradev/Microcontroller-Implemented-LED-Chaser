@@ -7,4 +7,10 @@ Use loops to shift LED lighting left and right.
 
 Apply delay functions for smooth animation.
 
-![Alt Lab 03 Proteus Simulation](C:\Users\Hp\Desktop\Elec_Lab\Lab3\LED_Chaser.png)
+my-project/
+  README.md
+  images/
+    LED_Chaser.png
+
+
+![Alt Lab 03 Proteus Simulation](LED_Chaser.png)
